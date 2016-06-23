@@ -1,8 +1,10 @@
 # hello-world
 About Network Security Systems Plus and our CYBER SECURITY JOBS
 
-Network Security Systems Plus is a veteran-owned cyber security firm based in Falls Church, VA.
-We are a defense contractor with prime contracts on 2 of the 23 CNDSPs issued by the government, and sub on a third.  
+Network Security Systems Plus is a veteran-owned cyber security firm based in Falls Church, VA.  
+You can learn more about us on our website, at: www.nssplus.com
+
+NSSPlus is a defense contractor with prime contracts on 2 of the 23 CNDSPs issued by the government, and sub on a third.  
 We support SPAWAR-LANT and DCMA as a prime, and ARL as a sub.  
 
 NSSPlus offers exceptional career opportunities in cyber security, including positions such as 
